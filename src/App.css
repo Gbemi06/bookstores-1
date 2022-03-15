@@ -2,9 +2,14 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.image-class {
+  height: 400px;
+  padding-bottom: 2rem;
+  object-fit: cover;
+}
+
+.footer {
+  position: sticky;
 }
 
 @media (prefers-reduced-motion: no-preference) {
